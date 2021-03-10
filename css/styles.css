@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700;1,900&family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
+
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 1.2rem !important;
+}
+
+.navbar{
+    padding: 2rem 0 4.5rem 0 !important;
+}
+
+.nav-item{
+    padding: 0 18px !important;
+}
+
+h1{
+    font-size: 3.5rem !important;
+    font-weight: 900 !important;
+    line-height: 1.5 !important;
+}
+
+h2{
+    font-weight: bold !important;
+
+}
+
+h3{
+    font-weight: 700 !important;
+    font-size: 1.5rem !important;
+}
+
+.title-image{
+    width: 60%;
+    margin-left: 3rem;
+    position:absolute;
+    transform: rotate(25deg);
+}
+
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+
+#features{
+    background-color: #fff;
+    position: relative;
+    margin: auto;
+    width: 70%;
+    height: 370px;
+    padding-top: 20px;
+}
+.extra-margin{
+    margin-top: 60px;
+}
+#testimonials{
+    background-color: #ff4c68 ;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+.cn{
+    margin: auto;
+    width: 70%;
+    padding-bottom: 60px;
+}
+.carousel-item{
+    padding-top: 80px;
+}
+.testimonial-image{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#press{
+    background-color: #ff4c68 ;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.test-image{
+    width: 300px;
+    height: 60px;
+    padding: 0px 37px;
+}
+.top-pricing{
+    padding-top: 50px;
+    margin: auto;
+    text-align: center;
+}
+.card{
+    height: 400px;
+}
+
+/* CTA */
+#cta{
+    height: 280px;
+    background-color: #ff4c68 ;
+}
+.footer-h3{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 3rem !important;
+    font-weight: Bolder;
+    padding-top: 55px;
+}
+.button-footer{
+    text-align: center;
+}
+
+/* Footer */
+.footer-text{
+    text-align: center;
+    opacity: 50%;
+}
+.social{
+    padding-top: 80px;
+    margin:     auto;
+}
